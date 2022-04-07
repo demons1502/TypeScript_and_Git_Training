@@ -66,5 +66,5 @@
     "exclude": [
         "node_modules" // would be the default
     ],
-    "include": ["./src/functions.ts"]
+    "include": ["./src/classes-interface.ts"]
 }
